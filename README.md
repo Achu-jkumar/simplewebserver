@@ -52,6 +52,5 @@ httpd.serve_forever()
 ## OUTPUT:
 ![output1](./images/output1.png)
 ![output2](./images/output2.png)
-
 ## RESULT:
 The given program is completed.
